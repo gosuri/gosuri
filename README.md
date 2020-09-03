@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Greg. Just checking out this special feature on GitHub.
 
 <!--
 **gosuri/gosuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
